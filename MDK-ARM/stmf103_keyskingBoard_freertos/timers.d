@@ -1,0 +1,15 @@
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+stmf103_keyskingboard_freertos\timers.o: F:\Users\hasee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stmf103_keyskingboard_freertos\timers.o: F:\Users\hasee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stmf103_keyskingboard_freertos\timers.o: F:\Users\hasee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stmf103_keyskingboard_freertos\timers.o: ../Core/Inc/FreeRTOSConfig.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+stmf103_keyskingboard_freertos\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

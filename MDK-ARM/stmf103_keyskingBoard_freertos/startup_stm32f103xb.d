@@ -1,0 +1,1 @@
+stmf103_keyskingboard_freertos\startup_stm32f103xb.o: startup_stm32f103xb.s
